@@ -4,6 +4,7 @@ This project implements a Convolutional Neural Network (CNN) in TensorFlow/Keras
 
 ## 📁 Dataset Structure
 
+
 Hand Gesture Data/
 ├── train/
 │   ├── rock/
